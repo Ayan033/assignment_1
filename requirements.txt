@@ -1,1 +1,14 @@
-ывтсоывмвым
+python version 3.9.2
+
+pip version 20.2.3
+
+pycoingecko
+Version: 2.2.0
+Summary: Python wrapper around the CoinGecko API
+Home-page: https://github.com/man-c/pycoingecko
+Author: Christoforou Manolis
+Author-email: emchristoforou@gmail.com
+License: MIT
+Location: c:\users\ayana\appdata\local\programs\python\python39\lib\site-packages
+Requires: requests
+Required-by:
